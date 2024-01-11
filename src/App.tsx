@@ -1,5 +1,5 @@
 import React from 'react';
-import 'reset-css';
+import './reset.css';
 import './App.css';
 import Header from './components/Header';
 import CharacterRatings from './components/CharacterRating';

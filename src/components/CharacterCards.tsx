@@ -1,5 +1,5 @@
 import { Character } from "../fma-data";
-import CharacterCard from "./ClassCharacterCard";
+import CharacterCard from "./CharacterCard";
 
 type CharacterCardsProps = {
     characters: Character[];
